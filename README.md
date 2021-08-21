@@ -9,3 +9,5 @@ Estudiante: Sebastian Felipe Moreno Gómez
 Grupo: 57
 
 Docente: Daniel Padilla
+
+Video de explicación GUI: https://youtu.be/qHeNV1QstaI
